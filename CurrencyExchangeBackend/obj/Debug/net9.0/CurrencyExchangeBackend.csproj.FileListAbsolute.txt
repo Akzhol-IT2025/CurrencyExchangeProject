@@ -1,0 +1,12 @@
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/bin/Debug/net9.0/CurrencyExchangeBackend.deps.json
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/bin/Debug/net9.0/CurrencyExchangeBackend.dll
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/bin/Debug/net9.0/CurrencyExchangeBackend.pdb
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/CurrencyExchangeBackend.csproj.AssemblyReference.cache
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/CurrencyExchangeBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/CurrencyExchangeBackend.AssemblyInfoInputs.cache
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/CurrencyExchangeBackend.AssemblyInfo.cs
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/CurrencyExchangeBackend.csproj.CoreCompileInputs.cache
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/CurrencyExchangeBackend.dll
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/refint/CurrencyExchangeBackend.dll
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/CurrencyExchangeBackend.pdb
+/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/Debug/net9.0/ref/CurrencyExchangeBackend.dll

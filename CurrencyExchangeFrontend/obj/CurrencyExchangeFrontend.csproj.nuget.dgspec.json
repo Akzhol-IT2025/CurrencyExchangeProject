@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeFrontend/CurrencyExchangeFrontend.csproj": {}
+  },
+  "projects": {
+    "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/CurrencyExchangeBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/CurrencyExchangeBackend.csproj",
+        "projectName": "CurrencyExchangeBackend",
+        "projectPath": "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/CurrencyExchangeBackend.csproj",
+        "packagesPath": "/Users/akzholabdinazarov/.nuget/packages/",
+        "outputPath": "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akzholabdinazarov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeFrontend/CurrencyExchangeFrontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeFrontend/CurrencyExchangeFrontend.csproj",
+        "projectName": "CurrencyExchangeFrontend",
+        "projectPath": "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeFrontend/CurrencyExchangeFrontend.csproj",
+        "packagesPath": "/Users/akzholabdinazarov/.nuget/packages/",
+        "outputPath": "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeFrontend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akzholabdinazarov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/CurrencyExchangeBackend.csproj": {
+                "projectPath": "/Users/akzholabdinazarov/Desktop/CurrencyExchangeSolution /CurrencyExchangeBackend/CurrencyExchangeBackend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
